@@ -1,1 +1,3 @@
-variable "app_version" { [default = "1.0.2"] }
+variable "app_version" { 
+  default = "1.0.2"
+}
